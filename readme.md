@@ -9,3 +9,5 @@ public class HelloWorld {
 -feature-A
 
 -feature-B
+
+-feature-C
